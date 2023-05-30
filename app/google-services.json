@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "601797301072",
+    "project_id": "boardgamefinder-89f8a",
+    "storage_bucket": "boardgamefinder-89f8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601797301072:android:20a34c789940f29c2c9255",
+        "android_client_info": {
+          "package_name": "com.example.boardgamefinder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3zznsPoXFAij1cVpZjhRP4d91K-bah4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
